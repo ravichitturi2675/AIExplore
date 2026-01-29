@@ -1,4 +1,4 @@
-# BlastFW: Selenium to Playwright Converter
+# BlastFW: Selenium to Playwright Code Converter
 
 **BlastFW** is an intelligent automation migration tool designed to modernize legacy test suites. It leverages a local Large Language Model (Ollama) to accurately convert Selenium (Java) test scripts into robust, asynchronous Playwright (TypeScript/JavaScript) tests.
 
